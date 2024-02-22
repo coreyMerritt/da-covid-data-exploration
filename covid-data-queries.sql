@@ -44,8 +44,7 @@ WHERE continent IS NOT NULL
 GROUP BY location, population
 ORDER BY death_percentage DESC;
 
--- Deaths by continent.   
-   -- NOTE: Data collection team left many null values in regards to continent tagging, this data should be observed with discretion.
+-- Deaths by continent.
 SELECT continent, MAX(total_deaths) AS highest_death_count
 FROM covid_information..covid_deaths
 WHERE continent IS NOT NULL
