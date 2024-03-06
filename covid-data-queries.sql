@@ -1,3 +1,6 @@
+-- The visualization that goes along with this can be found here:    https://public.tableau.com/app/profile/corey.merritt5468/viz/COVIDData_17090071351950/Dashboard
+-- Thanks for your time!
+
 -- All data in covid_deaths.
 SELECT *
 FROM covid_information..covid_deaths
