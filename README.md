@@ -2,7 +2,8 @@
 
 This project was created as a learning excercise to build skills in data analytics and SQL querying. 
 
-The CSV file was provided by [Our World in Data](ourworldindata.org/covid-deaths) and the SQL queries written against the data were created by myself.
+The CSV file was provided by [Our World in Data](ourworldindata.org/covid-deaths) 
+The SQL queries written against the data and the visualization were created by myself.
 
 
 An interactive dashboard can be found here: [Dashboard](https://public.tableau.com/app/profile/corey.merritt5468/viz/COVIDData_17090071351950/Dashboard)
